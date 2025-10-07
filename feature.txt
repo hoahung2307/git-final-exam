@@ -1,0 +1,5 @@
+Tính năng xác thực người dùng:
+
+Người dung nhập username hoặc email và mật khẩu
+Nếu đúng ứng dụng sẽ gửi về một email chứa mã xác thựcc
+Nhập mã xác thực và tiếp tục
