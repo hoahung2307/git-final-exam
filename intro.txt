@@ -1,4 +1,5 @@
-Xin chào Tôi là Nguyễn Chí Nguyên
+Tôi tên là Nguyễn Chí Nguyên, là lập trình viên Web
+Xin chào Tôi là Nguyễn Chí Nguyen
 Sinh viên năm 4
 Lớp DH22TIN02
 MssV 220538
@@ -13,3 +14,5 @@ Kế hoạch học tập:
 - Trao dồi kiến thức
 - Thực tập lấy kinh nghiệm
 - Học lên Thạc sĩ
+
+Conflict resolved on 07/10/2025.
