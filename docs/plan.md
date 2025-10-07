@@ -18,9 +18,17 @@ CN: React, Django, Web3
 
 
 
+<<<<<<< Updated upstream
 Mai
 
 Mốt
 
 Ngày Kia
+=======
+32
+
+33
+
+34
+>>>>>>> Stashed changes
 
