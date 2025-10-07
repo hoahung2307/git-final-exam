@@ -1,0 +1,8 @@
+Tôi tên là Nguyễn Chí Nguyên, là lập trình viên Web
+Sinh viên năm 4
+Lớp DH22TIN02
+MssV 220538
+
+Sở thích: Thể thao lành mạnh, Game, Lướt video ngắn
+
+Kỹ năng: Django, ReactJs, CloudService
