@@ -1,3 +1,6 @@
 Git dễ học
 Git dễ dung
 Git có cộng đồng lớn
+
+Git quản lý version code
+Git là công cụ không thể thiếu của dec
